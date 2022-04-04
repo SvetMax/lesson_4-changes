@@ -3,6 +3,8 @@ div {
 }
 .par {
   background-color: yellow;
+}
+span {
   width: 200px;
   height: 100px;
 }
