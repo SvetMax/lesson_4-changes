@@ -1,8 +1,10 @@
 span {
   width: 200px;
   height: 100px;
-  background-color: yellow;
 }
 div {
   display: inline-block;
+}
+.par {
+  background-color: yellow;
 }
