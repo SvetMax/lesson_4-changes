@@ -1,9 +1,9 @@
-<style >
- .list {
+.list {
   font-size: 24px;
-  color: orange;
 }
-.par {
+p {
   color: green;
 }
-</style>
+li {
+  color: orange;
+}
